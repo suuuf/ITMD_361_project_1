@@ -1,2 +1,4 @@
-# ITMD_361_Projects
-My ITMD 361 Projects Repository
+# ITMD_361_Project 1
+ITMD 361 Project 1
+
+Sufyan Menk
